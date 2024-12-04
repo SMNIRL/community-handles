@@ -203,9 +203,16 @@ export default async function IndexPage({
             &quot;Verify DNS Record&quot;.
           </p>
           <p className="mt-6 max-w-lg text-sm">
-            If you like this project, consider{" "}
+            This service is made possible by the community-handles project, consider{" "}
             <a href="https://github.com/sponsors/mozzius" className="underline">
-              sponsoring my work
+              sponsoring the developer
+            </a>
+            .
+          </p>
+          <p className="mt-6 max-w-lg text-sm">
+            catboys.social is administered by{" "}
+            <a href="https://bsky.app/profile/kastor.sh" className="underline">
+              @kastor.sh
             </a>
             .
           </p>
